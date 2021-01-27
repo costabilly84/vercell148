@@ -1,0 +1,4 @@
+baseURL = "https://quotwselfquen6.vercel.app"
+languageCode = "en-us"
+title = "Inspired Quotes For Self"
+theme = "tale-hugo-master"
